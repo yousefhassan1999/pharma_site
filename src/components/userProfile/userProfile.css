@@ -53,7 +53,8 @@
 .profile__card p {
   margin-bottom: 0;
   margin-left: 10px;
-  color: #acb3b9;
+  color: #393a3b;
+  font-weight: bolder;
 }
 .username{
   word-wrap: break-word;
