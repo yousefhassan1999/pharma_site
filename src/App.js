@@ -130,9 +130,9 @@ const App = () => {
 
   const registerUser = () => {
     AvatarLinks.indexOf(avatar) === -1 && alert("Choose Avatar to connect");
-    userData.username === "" && alert("Enter UserName to connect");
+    userData.username.split(",")[0] === "" && alert("Enter UserName to connect");
 
-    if (AvatarLinks.indexOf(avatar) !== -1 && userData.username !== "") {
+    if (AvatarLinks.indexOf(avatar) !== -1 && userData.username.split(",")[0] !== "") {
       setUserData({
         ...userData,
         username: userData.username.concat("," + AvatarLinks.indexOf(avatar)),
