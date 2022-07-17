@@ -128,18 +128,27 @@ const App = () => {
     }
   };
 
-  const registerUser = (userName) => {
-    
-    if (AvatarLinks.indexOf(avatar) !== -1 && userName!=="") {
+  const registerUser = () => {
+    AvatarLinks.indexOf(avatar) === -1 && alert("Choose Avatar to connect");
+    userData.username === "" && alert("Enter UserName to connect");
+
+    if (AvatarLinks.indexOf(avatar) !== -1 && userData.username !== "") {
       setUserData({
         ...userData,
-        username: userName.concat("," + AvatarLinks.indexOf(avatar)),
+        username: userData.username.concat("," + AvatarLinks.indexOf(avatar)),
       });
+      console.log(avatar);
+      console.log(userData.username);
       connect();
     }
   };
 
   const SelectAvatar = (URL) => {
+    AvatarLinks.indexOf(avatar) === -1 &&
+      setUserData({
+        ...userData,
+        username: userData.username.concat("," + AvatarLinks.indexOf(URL)),
+      });
     setavatar(URL);
   };
   React.useEffect(() => {
@@ -153,6 +162,18 @@ const App = () => {
       ? setTab(Tab)
       : setTab(Tab.concat("," + AvatarLinks.indexOf(URL)));
   };
+
+  const handleUsername = (event) => {
+    const { value } = event.target;
+    const old = userData.username.split(",")[1];
+    old === undefined
+      ? setUserData({ ...userData, username: value.split(",")[0] })
+      : setUserData({
+          ...userData,
+          username: value.split(",")[0].concat("," + old),
+        });
+  };
+
   return (
     <React.Fragment>
       {userData.connected ? (
@@ -172,9 +193,11 @@ const App = () => {
         </div>
       ) : (
         <Register
+          userData={userData}
           AvatarLinks={AvatarLinks}
           SelectAvatar={SelectAvatar}
           registerUser={registerUser}
+          handleUsername={handleUsername}
         />
       )}
     </React.Fragment>

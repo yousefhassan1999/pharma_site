@@ -3,17 +3,19 @@ import Carousel from "react-elastic-carousel";
 import Avatar from "./avatar";
 
 const Register = ({
+  userData,
   registerUser,
   AvatarLinks,
   SelectAvatar,
+  handleUsername
 }) => {
-  const [userName, setuserName] = React.useState("");
+  // const [userName, setuserName] = React.useState("");
 
   
-  const handleUsername = (event) => {
-    const { value } = event.target;
-    setuserName(value );
-  };
+  // const handleUsername = (event) => {
+  //   const { value } = event.target;
+  //   setuserName(value );
+  // };
 
   return (
     <div className="register">
@@ -31,11 +33,11 @@ const Register = ({
           id="user-name"
           placeholder="Enter your name"
           name="userName"
-          value={userName}
+          value={userData.username.split(",")[0]}
           onChange={handleUsername}
           margin="normal"
         />
-        <button type="button" className="registeconnect" onClick={()=> registerUser(userName)} >
+        <button type="button" className="registeconnect" onClick={registerUser} >
           connect
         </button>
       </div>
