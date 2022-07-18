@@ -15,6 +15,7 @@ const ChatContent = ({
   privateChats,
   publicChats,
 }) => {
+  const messagesEndRef = React.createRef(null);
   const [msg, setmsg] = useState("");
 
   const onStateChange = (e) => {
@@ -30,7 +31,10 @@ const ChatContent = ({
     setmsg("");
     sendValue(msg);
   };
-
+  const scrollToBottom = () => {
+    messagesEndRef.current.scrollIntoView({ behavior: "smooth" });
+  };
+  React.useEffect(scrollToBottom, [privateChats,publicChats]);
   return (
     <div className="main__chatcontent">
       <div className="content__header">
@@ -76,7 +80,7 @@ const ChatContent = ({
                   image={AvatarLinks[parseInt(chat.senderName.split(",")[1])]}
                 />
               ))}
-          {/* <div ref={this.messagesEndRef} /> */}
+          <div ref={messagesEndRef} />
         </div>
       </div>
       <div className="content__footer">
