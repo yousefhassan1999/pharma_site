@@ -21,6 +21,16 @@ const ChatContent = ({
     setmsg(e.target.value);
   };
 
+  const PRMessage = () => {
+    setmsg("");
+    sendPrivateValue(msg);
+  };
+
+  const PUMessage = () => {
+    setmsg("");
+    sendValue(msg);
+  };
+
   return (
     <div className="main__chatcontent">
       <div className="content__header">
@@ -81,20 +91,12 @@ const ChatContent = ({
             value={msg}
           />
           {tab === "CHATROOM" && (
-            <button
-              className="btnSendMsg"
-              id="sendMsgBtn"
-              onClick={() => sendValue(msg)}
-            >
+            <button className="btnSendMsg" id="sendMsgBtn" onClick={PUMessage}>
               <i className="fa fa-paper-plane"></i>
             </button>
           )}
           {tab !== "CHATROOM" && (
-            <button
-              className="btnSendMsg"
-              id="sendMsgBtn"
-              onClick={() => sendPrivateValue(msg)}
-            >
+            <button className="btnSendMsg" id="sendMsgBtn" onClick={PRMessage}>
               <i className="fa fa-paper-plane"></i>
             </button>
           )}

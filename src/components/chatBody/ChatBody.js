@@ -21,6 +21,7 @@ const ChatBody = ({
       <div className="User_Info">
         <UserProfile userData={userData} AvatarLinks={AvatarLinks} />
         <ChatList
+          tab={tab}
           userData={userData}
           allChats={allChats}
           SetTabClick={SetTabClick}

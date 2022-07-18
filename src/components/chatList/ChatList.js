@@ -4,7 +4,14 @@ import ChatListItems from "./ChatListItems";
 import "simplebar";
 import "simplebar/dist/simplebar.css";
 
-const ChatList = ({ userData, allChats, SetTabClick, AvatarLinks,mewMessage }) => {
+const ChatList = ({
+  tab,
+  userData,
+  allChats,
+  SetTabClick,
+  AvatarLinks,
+  mewMessage,
+}) => {
   const [size, setSize] = useState(0);
   useLayoutEffect(() => {
     const updateSize = () => {
@@ -17,9 +24,13 @@ const ChatList = ({ userData, allChats, SetTabClick, AvatarLinks,mewMessage }) =
   const toggleInfo = (e) => {
     e.target.parentNode.parentNode.parentNode.classList.toggle("open");
   };
+  const allConnections = [...allChats.keys()];
   return (
     <div className="main__chatlist open">
-      <button className="btn" onClick={() => SetTabClick("CHATROOM", "")}>
+      <button
+        className={`btn ${tab === "CHATROOM" ? "clicked" : ""}`}
+        onClick={() => SetTabClick("CHATROOM", "")}
+      >
         <span>Chat Room</span>
       </button>
       <div className="chatlist__heading">
@@ -30,31 +41,27 @@ const ChatList = ({ userData, allChats, SetTabClick, AvatarLinks,mewMessage }) =
           </button>
         )}
       </div>
-      <div className="chatList__search">
-        <div className="search_wrap">
-          <input type="text" placeholder="Search Here" required />
-          <button className="search-btn">
-            <i className="fa fa-search"></i>
-          </button>
-        </div>
-      </div>
 
-      <div className="chatlist__items" data-simplebar>
-        {[...allChats.keys()]
-          .filter((item) => item !== userData.username)
-          .map((item, index) => {
-            return (
-              <ChatListItems
-                name={item.split(",")[0]}
-                key={index}
-                animationDelay={index + 1}
-                image={AvatarLinks[parseInt(item.split(",")[1])]}
-                SetTabClick={SetTabClick}
-                newMessage={mewMessage.get(item)>0}
-              />
-            );
-          })}
-      </div>
+      {allConnections.length !== 1 ? (
+        <div className="chatlist__items" data-simplebar>
+          {allConnections
+            .filter((item) => item !== userData.username)
+            .map((item, index) => {
+              return (
+                <ChatListItems
+                  name={item.split(",")[0]}
+                  key={index}
+                  animationDelay={index + 1}
+                  image={AvatarLinks[parseInt(item.split(",")[1])]}
+                  SetTabClick={SetTabClick}
+                  newMessage={mewMessage.get(item) > 0}
+                />
+              );
+            })}
+        </div>
+      ) : (
+        <div className="empty_message_show">Connection Members After you</div>
+      )}
     </div>
   );
 };

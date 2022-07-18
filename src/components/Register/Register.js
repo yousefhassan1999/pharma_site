@@ -9,14 +9,6 @@ const Register = ({
   SelectAvatar,
   handleUsername
 }) => {
-  // const [userName, setuserName] = React.useState("");
-
-  
-  // const handleUsername = (event) => {
-  //   const { value } = event.target;
-  //   setuserName(value );
-  // };
-
   return (
     <div className="register">
       <div className="slection-title">Select Avatar Photo</div>

@@ -164,6 +164,7 @@ const App = () => {
   };
 
   const handleUsername = (event) => {
+    event.preventDefault();
     const { value } = event.target;
     const old = userData.username.split(",")[1];
     old === undefined
