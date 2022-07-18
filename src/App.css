@@ -13,7 +13,7 @@ body {
   border-radius: 10px;
   display: flex;
 }
-@media screen and (min-width: 768px){
+@media screen and (min-width: 768px) {
   #root {
     background-color: #f0f0f0;
     display: flex;
@@ -32,11 +32,10 @@ body {
   }
 }
 
-@media screen and (min-width: 992px){
-
+@media screen and (min-width: 992px) {
 }
 
-@media screen and (min-width: 1200px){
+@media screen and (min-width: 1200px) {
 }
 .btn {
   background-color: #fff;
@@ -94,44 +93,46 @@ body {
 ::-webkit-scrollbar-thumb:hover {
   background: #3b5bfe;
 }
-.slection-title{
+.slection-title {
   width: 100%;
   padding: 1vw;
   text-align: center;
   font-size: 2rem;
   font-weight: bolder;
 }
-.register{
+.register {
   width: 90vw;
   height: 90vh;
   position: fixed;
-  padding:30px;
-  box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.034),0 6.7px 5.3px rgba(0, 0, 0, 0.048),0 12.5px 10px rgba(0, 0, 0, 0.06),0 22.3px 17.9px rgba(0, 0, 0, 0.072),0 41.8px 33.4px rgba(0, 0, 0, 0.086),0 100px 80px rgba(0, 0, 0, 0.12);
-  top:50%;
-  left:50%;
-  transform: translate(-50%,-50%);
+  padding: 30px;
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12);
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   display: flex;
   justify-content: center;
   flex-direction: column;
-  -webkit-transform: translate(-50%,-50%);
-  -moz-transform: translate(-50%,-50%);
-  -ms-transform: translate(-50%,-50%);
-  -o-transform: translate(-50%,-50%);
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
 }
-@media screen and (min-width: 768px){
-}
-
-@media screen and (min-width: 992px){
-
+@media screen and (min-width: 768px) {
 }
 
-@media screen and (min-width: 1200px){
-  .register{
+@media screen and (min-width: 992px) {
+}
+
+@media screen and (min-width: 1200px) {
+  .register {
     width: 40vw;
     height: 60vh;
-  } 
+  }
 }
-.User_Enter{
+.User_Enter {
   width: 100%;
   display: flex;
   justify-content: center;
@@ -145,21 +146,23 @@ body {
   border-bottom: 2px solid #2c73d2;
   margin-bottom: 10px;
 }
-.registeconnect{
+.registeconnect {
   border: none;
   padding: 12px;
   background: #2c73d2;
-  color:#fff;
+  color: #fff;
   font-size: 1.2em;
   font-weight: bold;
   margin-left: 1px;
-  transition: .5s;
-  -webkit-transition: .5s;
-  -moz-transition: .5s;
-  -ms-transition: .5s;
-  -o-transition: .5s;
+  transition: 0.5s;
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -ms-transition: 0.5s;
+  -o-transition: 0.5s;
 }
-.registeconnect:hover{
-  cursor: pointer;
-  background-color: #845ec2;
+@media screen and (min-width: 992px) {
+  .registeconnect:hover {
+    cursor: pointer;
+    background-color: #845ec2;
+  }
 }
