@@ -18,12 +18,12 @@ const ChatContent = ({ AvatarLinks, Data }) => {
         {Data.map((data) => (
           <div key={data.EnglishName}>
             <Card className="Card" style={{ width: "18rem" }}>
-              <Card.Img variant="top" src={AvatarLinks[0]} />
+              <Card.Img variant="top" src={data.Picture} />
               <Card.Body>
-                <Card.Title className="name">{data.EnglishName} </Card.Title>
-                <Card.Text className="desc">{data.composition}</Card.Text>
+                <Card.Title className="name">{data.English_Name} </Card.Title>
+                <Card.Text className="desc">{data.Composition}</Card.Text>
                 <ListGroup className="list-group-flush">
-                  <ListGroup.Item className="price"> <span>Price : {data.New_price}</span> </ListGroup.Item>
+                  <ListGroup.Item className="price"> <span>Price : {data.New_Price}</span> </ListGroup.Item>
                   <ListGroup.Item>
                     <Card.Link href="#">Card Link</Card.Link>
                   </ListGroup.Item>
