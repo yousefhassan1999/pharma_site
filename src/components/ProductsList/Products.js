@@ -15,8 +15,8 @@ const ChatContent = ({ AvatarLinks, Data }) => {
   return (
     <div className="main__chatcontent">
       {/* <Carousel className="corssal" breakPoints={breakPoints}> */}
-        {Data.map((data) => (
-          <div key={data.EnglishName}>
+        {Data.map((data , index) => (
+          <div key={index}>
             <Card className="Card" style={{ width: "18rem" }}>
               <Card.Img variant="top" src={data.Picture} />
               <Card.Body>

@@ -4,7 +4,6 @@ import "./App.css";
 import MainBody from "./components/MainBody/MainBody";
 import ContactMe from "./components/ContactMe/ContactMe";
 
-import Container from "react-bootstrap/Container";
 import Navbar from "react-bootstrap/Navbar";
 import logo from "./images/logo.png";
 
