@@ -17,13 +17,13 @@ const ChatContent = ({ AvatarLinks, Data }) => {
       {/* <Carousel className="corssal" breakPoints={breakPoints}> */}
         {Data.map((data) => (
           <div key={data.EnglishName}>
-            <Card style={{ width: "18rem" }}>
-              <Card.Img variant="top" src="http://egyptiandrugstore.com/image/cache/data/manar10/123%20tab-400x400.png" />
+            <Card className="Card" style={{ width: "18rem" }}>
+              <Card.Img variant="top" src={AvatarLinks[0]} />
               <Card.Body>
-                <Card.Title>{data.EnglishName} </Card.Title>
-                <Card.Text>{data.composition}</Card.Text>
+                <Card.Title className="name">{data.EnglishName} </Card.Title>
+                <Card.Text className="desc">{data.composition}</Card.Text>
                 <ListGroup className="list-group-flush">
-                  <ListGroup.Item>Price : {data.New_price}</ListGroup.Item>
+                  <ListGroup.Item className="price"> <span>Price : {data.New_price}</span> </ListGroup.Item>
                   <ListGroup.Item>
                     <Card.Link href="#">Card Link</Card.Link>
                   </ListGroup.Item>
