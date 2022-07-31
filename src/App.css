@@ -16,6 +16,12 @@ body {
   border-radius: 10px;
   display: flex;
 }
+.header{
+  display: flex;
+  justify-content:space-between;
+  width: 100%;
+  padding: 0px 20px ;
+}
 @media screen and (min-width: 768px) {
   #root {
     background-color: #f0f0f0;
@@ -47,4 +53,25 @@ body {
   text-align: center;
   font-size: 2rem;
   font-weight: bolder;
+}
+.search_wrap {
+  background-color: #e6e5ea;
+  border-radius: 5px;
+}
+.search_wrap input {
+  background-color: transparent;
+  border: none;
+  padding: 15px 15px;
+  outline: none;
+  width: 80%;
+  padding-right: 0;
+}
+.search-btn {
+  height: 46px;
+  border: none;
+  background-color: transparent;
+  outline: none;
+  width: 20%;
+  cursor: pointer;
+  font-size: 20px;
 }

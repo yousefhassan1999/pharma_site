@@ -21,22 +21,26 @@ const App = () => {
     "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSM6p4C6imkewkCDW-9QrpV-MMAhOC7GnJcIQ&usqp=CAU",
     "https://pbs.twimg.com/profile_images/770394499/female.png",
   ];
-  useEffect( ()=>{
+  useEffect(() => {
     setData(data.Products);
-    console.log(Data)
-  },[Data])
+    console.log(Data);
+  }, [Data]);
 
   return (
     <div className="app">
       <Navbar bg="light" expand="lg">
-        <Navbar.Brand href="#home">
-          <Container>
+          <div className="header">
             <img src={logo} alt="" />
-          </Container>
-        </Navbar.Brand>
+            <div className="search_wrap">
+              <input type="text" placeholder="Search Here" required />
+              <button className="search-btn">
+                <i className="fa fa-search"></i>
+              </button>
+            </div>
+          </div>
       </Navbar>
       <div className="__main">
-        <MainBody AvatarLinks={AvatarLinks}  Data={Data}/> 
+        <MainBody AvatarLinks={AvatarLinks} Data={Data} />
         {/* tab={tab} */}
       </div>
       <ContactMe />
