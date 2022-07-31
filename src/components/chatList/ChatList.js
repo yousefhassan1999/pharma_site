@@ -1,17 +1,9 @@
 import React, { useLayoutEffect, useState } from "react";
 import "./chatList.css";
-import ChatListItems from "./ChatListItems";
-import "simplebar";
-import "simplebar/dist/simplebar.css";
-
-const ChatList = ({
-  tab,
-  userData,
-  allChats,
-  SetTabClick,
-  AvatarLinks,
-  mewMessage,
-}) => {
+// tab,
+// SetTabClick,
+// AvatarLinks,
+const ChatList = () => {
   const [size, setSize] = useState(0);
   useLayoutEffect(() => {
     const updateSize = () => {
@@ -21,28 +13,29 @@ const ChatList = ({
     updateSize();
   }, [size]);
 
-  const toggleInfo = (e) => {
-    e.target.parentNode.parentNode.parentNode.classList.toggle("open");
-  };
-  const allConnections = [...allChats.keys()];
+  // const toggleInfo = (e) => {
+  //   e.target.parentNode.parentNode.parentNode.classList.toggle("open");
+  // };
   return (
     <div className="main__chatlist open">
-      <button
-        className={`btn ${tab === "CHATROOM" ? "clicked" : ""}`}
-        onClick={() => SetTabClick("CHATROOM", "")}
-      >
-        <span>Chat Room</span>
-      </button>
-      <div className="chatlist__heading">
-        <h2>Private Chats</h2>
+      <div className="chatList__search">
+        <div className="search_wrap">
+          <input type="text" placeholder="Search Here" required />
+          <button className="search-btn">
+            <i className="fa fa-search"></i>
+          </button>
+        </div>
+      </div>
+      {/* <div className="chatlist__heading">
+        <h2>Categories</h2>
         {size <= 768 && (
           <button className="btn-nobg">
             <i className="fa fa-angle-down" onClick={toggleInfo}></i>
           </button>
         )}
-      </div>
+      </div> */}
 
-      {allConnections.length !== 1 ? (
+      {/* {allConnections.length !== 1 ? (
         <div className="chatlist__items" data-simplebar>
           {allConnections
             .filter((item) => item !== userData.username)
@@ -59,9 +52,9 @@ const ChatList = ({
               );
             })}
         </div>
-      ) : (
-        <div className="empty_message_show">Connection Members After you</div>
-      )}
+      ) : ( */}
+      {/* <div className="empty_message_show">Connection Members After you</div> */}
+      {/* )} */}
     </div>
   );
 };

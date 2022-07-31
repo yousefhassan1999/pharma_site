@@ -1,0 +1,793 @@
+﻿{
+    "Products": [
+        {
+            "EnglishName": "1 2 3 tablets 20 tab.",
+            "ArabicName": "ون تو ثري 20 قرص",
+            "New_price": "15",
+            "Old_price": "15",
+            "Code": "6223003930479",
+            "composition": "pseudoephedrine+paracetamol+chlorpheniramine"
+        },
+        {
+            "EnglishName": "1 2 3 syrup 120 ml",
+            "ArabicName": "ون تو ثري شراب 120 مل",
+            "New_price": "10.5",
+            "Old_price": "10.5",
+            "Code": "6223003930488",
+            "composition": "pseudoephedrine+paracetamol+chlorpheniramine"
+        },
+        {
+            "EnglishName": "a1 baby cream 100gm",
+            "ArabicName": "ايه وان بيبى كريم 100جم",
+            "New_price": "40",
+            "Old_price": "29.75",
+            "Code": "6223003930479",
+            "composition": "castor oil+zinc oxide+arachis oil+bees wax"
+        },
+        {
+            "EnglishName": "abc  plus  14 tab",
+            "ArabicName": "اى بي سى بلاس 14 اقراص",
+            "New_price": "19.8",
+            "Old_price": "19.8",
+            "Code": "6222003925089",
+            "composition": "multivitamins+minerals +antioxidants"
+        },
+        {
+            "EnglishName": "abidec multivitamin drops  25ml",
+            "ArabicName": "ابيديك فيتامين نقط للطفل 25مل",
+            "New_price": "60",
+            "Old_price": "60",
+            "Code": "5012616173004",
+            "composition": "multivitamins"
+        },
+        {
+            "EnglishName": "abidec multivitamin drops for inf&child 50ml",
+            "ArabicName": "ابيديك فيتامين نقط للطفل",
+            "New_price": "105",
+            "Old_price": "105",
+            "Code": "5010123709501",
+            "composition": "multivitamins"
+        },
+        {
+            "EnglishName": "abilaxine 5mg 20/tab",
+            "ArabicName": "ابى لاكسين اقراص 20 قرص",
+            "New_price": "4.5",
+            "Old_price": "2.25",
+            "Code": "6221045000839",
+            "composition": "bisacodyl"
+        },
+        {
+            "EnglishName": "abilia 15 mg 10 tablets",
+            "ArabicName": "ابيليا 15 مجم 10اقراص",
+            "New_price": "35",
+            "Old_price": "35",
+            "Code": "6222006500955",
+            "composition": "aripiprazole"
+        },
+        {
+            "EnglishName": "abilia 20mg /10film coated tablets",
+            "ArabicName": "ابيليا 20 مجم 10اقراص مغلفه",
+            "New_price": "40",
+            "Old_price": "40",
+            "Code": "6222006500948",
+            "composition": "aripiprazole"
+        },
+        {
+            "EnglishName": "abilify 10mg 10/tab",
+            "ArabicName": "ابيليفاى 10مجم  10اقراص",
+            "New_price": "176.5",
+            "Old_price": "176.5",
+            "Code": "6222014003547",
+            "composition": "aripiprazole  10 mg"
+        },
+        {
+            "EnglishName": "abilify 15 mg 10 tab",
+            "ArabicName": "ابيليفاي  15مجم  10اقراص",
+            "New_price": "264.5",
+            "Old_price": "264.5",
+            "Code": "6222014003530",
+            "composition": "aripiprazole"
+        },
+        {
+            "EnglishName": "abimol 120ml syrup",
+            "ArabicName": "ابيمول  125 ملل شراب",
+            "New_price": "5",
+            "Old_price": "5",
+            "Code": "6221045000600",
+            "composition": "paracetamol  150 mg"
+        },
+        {
+            "EnglishName": "abimol 500mg 20/tab",
+            "ArabicName": "ابيمول 500 مجم 20 قرص",
+            "New_price": "8",
+            "Old_price": "8",
+            "Code": "6221045000341",
+            "composition": "paracetamol  500 mg"
+        },
+        {
+            "EnglishName": "abimol extra 500mg 20/tab",
+            "ArabicName": "ابيمول اكسترا 500 مجم 20 قرص",
+            "New_price": "9",
+            "Old_price": "9",
+            "Code": "6221045011101",
+            "composition": "paracetamol  +caffeine"
+        },
+        {
+            "EnglishName": "abimol inf 5 supp",
+            "ArabicName": "ابيمول 5 اقماع للاطفال",
+            "New_price": "4.5",
+            "Old_price": "4.5",
+            "Code": "6221045000808",
+            "composition": "paracetamol  300 mg"
+        },
+        {
+            "EnglishName": "abivit - a- 50000  i . u  20  cap",
+            "ArabicName": "ابيفيت ايه 50000 20 كبسولة",
+            "New_price": "3.75",
+            "Old_price": "3.8",
+            "Code": "6221045000730",
+            "composition": "vitamin a palmitate"
+        },
+        {
+            "EnglishName": "abrammune 50 mg 50 cap",
+            "ArabicName": "ابراميون 50  مجم 50 كبسول",
+            "New_price": "220",
+            "Old_price": "220",
+            "Code": "6221025012067",
+            "composition": "cyclosporin"
+        },
+        {
+            "EnglishName": "acapril  5  mg  10  tab",
+            "ArabicName": "اكابريل 5 مجم 10 اقراص",
+            "New_price": "6.75",
+            "Old_price": "6.75",
+            "Code": "6224000875190",
+            "composition": "enalapril maleate  5  mg"
+        },
+        {
+            "EnglishName": "acapril 20mg 10tab",
+            "ArabicName": "اكابريل20مجم10 قراص",
+            "New_price": "18",
+            "Old_price": "14",
+            "Code": "6224000875152",
+            "composition": "enalapril"
+        },
+        {
+            "EnglishName": "acc  200mg  20/sachet",
+            "ArabicName": "اية سى سى 200مجم 20اكياس",
+            "New_price": "28",
+            "Old_price": "28",
+            "Code": "6222003701560",
+            "composition": "acetylcysteine  200 mg"
+        },
+        {
+            "EnglishName": "acc long  600mg  10/eff tab",
+            "ArabicName": "اية سى سى 600 مجم فوار 10 اقراص فوار",
+            "New_price": "19.2",
+            "Old_price": "32",
+            "Code": "6222003701553",
+            "composition": "acetylcystine"
+        },
+        {
+            "EnglishName": "acetaprofen 100ml susp",
+            "ArabicName": "اسيتابروفين 100مل معلق",
+            "New_price": "5",
+            "Old_price": "5",
+            "Code": "6221068402993",
+            "composition": "ibuprofen  125 mg+paracetamol 100 mg"
+        },
+        {
+            "EnglishName": "acetylcistein 200 mg 5 gm- 20 sach",
+            "ArabicName": "استيل سيستابين 200 مجم 20 كيس",
+            "New_price": "14",
+            "Old_price": "18",
+            "Code": "6221042202069",
+            "composition": "acetylcysteine"
+        },
+        {
+            "EnglishName": "acetylcistein 600 mg eff. instant gran. in sac",
+            "ArabicName": "استيل سيستابين 600 مجم  فوار",
+            "New_price": "30",
+            "Old_price": "21.75",
+            "Code": "6221042216011",
+            "composition": "acetylcysteine"
+        },
+        {
+            "EnglishName": "acetylcisteine 200mg 10/sachets",
+            "ArabicName": "استيل سستايين 200مجم  10اكياس",
+            "New_price": "14",
+            "Old_price": "14",
+            "Code": "6221042202014",
+            "composition": "acetylcysteine"
+        },
+        {
+            "EnglishName": "achtenon 2mg 20/tab",
+            "ArabicName": "اكتينون 2مجم  20قرص",
+            "New_price": "18",
+            "Old_price": "18",
+            "Code": "6221060005086",
+            "composition": "biperidene"
+        },
+        {
+            "EnglishName": "acicone  chew  20  tab",
+            "ArabicName": "اسيكون 20 اقراص",
+            "New_price": "28.5",
+            "Old_price": "6.5",
+            "Code": "6221508014014",
+            "composition": "magaldrate"
+        },
+        {
+            "EnglishName": "acicone 120ml susp",
+            "ArabicName": "اسيكون 120مل معلق",
+            "New_price": "4.75",
+            "Old_price": "4.75",
+            "Code": "6221508060929",
+            "composition": "magaldrate"
+        },
+        {
+            "EnglishName": "acicone- s  susp 540 mg / 5 ml-120 ml",
+            "ArabicName": "اسيكون اس 120 ملل معلق",
+            "New_price": "5",
+            "Old_price": "5",
+            "Code": "6221508061025",
+            "composition": "magaldrate+dimethicone  540 mg"
+        },
+        {
+            "EnglishName": "acicone susp- 200 ml",
+            "ArabicName": "اسيكون شراب 200 ملل",
+            "New_price": "8",
+            "Old_price": "7.5",
+            "Code": "6221508060912",
+            "composition": "magaldrate"
+        },
+        {
+            "EnglishName": "acicone-s  20/tab",
+            "ArabicName": "اسيكون-اس 20 قرص",
+            "New_price": "6.5",
+            "Old_price": "6.5",
+            "Code": "6221508014519",
+            "composition": "magaldrate+dimethicone"
+        },
+        {
+            "EnglishName": "acicone-s 200ml susp",
+            "ArabicName": "اسيكون-اس 200 مل شراب",
+            "New_price": "7.5",
+            "Old_price": "8",
+            "Code": "6221508061018",
+            "composition": "magaldrate+dimethicone  540 mg"
+        },
+        {
+            "EnglishName": "acilight 150mg 30/tab",
+            "ArabicName": "اسيلايت 150 مجم 30قرص",
+            "New_price": "29.25",
+            "Old_price": "29.25",
+            "Code": "6223004600098",
+            "composition": "ranitidine"
+        },
+        {
+            "EnglishName": "aciloc  75 mg 100 tab",
+            "ArabicName": "اسيلوك  75 مجم 100 اقراص",
+            "New_price": "7.5",
+            "Old_price": "36",
+            "Code": "6221051010075",
+            "composition": "ranitidine  75 mg"
+        },
+        {
+            "EnglishName": "aciloc 150mg 5 sachets effer",
+            "ArabicName": "اسيلوك 150مجم 5اكياس فوارة",
+            "New_price": "7.5",
+            "Old_price": "7.5",
+            "Code": "6221051030172",
+            "composition": "ranitidine"
+        },
+        {
+            "EnglishName": "aciloc 300 /20tab",
+            "ArabicName": "اسيلوك 300 /20قرص",
+            "New_price": "33.85",
+            "Old_price": "34",
+            "Code": "6221051012338",
+            "composition": "ranitidine"
+        },
+        {
+            "EnglishName": "aciloc 300mg 10/tab",
+            "ArabicName": "اسيلوك 300مجم  10اقراص",
+            "New_price": "17",
+            "Old_price": "11.25",
+            "Code": "6221051010068",
+            "composition": "ranitidine  300mg"
+        },
+        {
+            "EnglishName": "aciloc 75mg 20/tab",
+            "ArabicName": "اسيلوك  75 مجم 20قرص",
+            "New_price": "15",
+            "Old_price": "15",
+            "Code": "6221051011386",
+            "composition": "ranitidine  75 mg"
+        },
+        {
+            "EnglishName": "acitretin 10mg 30/cap",
+            "ArabicName": "اسيتريتن 10مجم  30 كبسولة",
+            "New_price": "87",
+            "Old_price": "87",
+            "Code": "6224000808006",
+            "composition": "acitretin  10 mg"
+        },
+        {
+            "EnglishName": "acitretin 25 mg 30 cap",
+            "ArabicName": "اسيتريتين 25مجم  30كبسول",
+            "New_price": "135",
+            "Old_price": "135",
+            "Code": "6224000808013",
+            "composition": "acitretin  25 mg"
+        },
+        {
+            "EnglishName": "acivirax 800mg 20tab",
+            "ArabicName": "اسيفيراكس 800مجم 20 قرص",
+            "New_price": "62",
+            "Old_price": "62",
+            "Code": "6222001407808",
+            "composition": "acyclovir"
+        },
+        {
+            "EnglishName": "acne free  30g  cream",
+            "ArabicName": "اكنى فرى 30 جم كريم",
+            "New_price": "7",
+            "Old_price": "7",
+            "Code": "6221025002860",
+            "composition": "tretinoin"
+        },
+        {
+            "EnglishName": "acne free 30g  gel",
+            "ArabicName": "اكنى فرى 30 جم جل",
+            "New_price": "5.9",
+            "Old_price": "5.9",
+            "Code": "6221025002877",
+            "composition": "tretinoin  0.025"
+        },
+        {
+            "EnglishName": "acne-biotic 15ml lotion",
+            "ArabicName": "اكنى-بيوتك 15 مل لوسيون",
+            "New_price": "13",
+            "Old_price": "13",
+            "Code": "6221060001330",
+            "composition": "erythromycin   4%"
+        },
+        {
+            "EnglishName": "acnescave 0.1% gel",
+            "ArabicName": "اكنيسكيف 0.1% جيل",
+            "New_price": "18",
+            "Old_price": "18",
+            "Code": "6221126000420",
+            "composition": "adapalene"
+        },
+        {
+            "EnglishName": "acne-stop 30g cream",
+            "ArabicName": "اكنى ستوب 30مجم كريم",
+            "New_price": "33.2",
+            "Old_price": "33.2",
+            "Code": "6222001405118",
+            "composition": "oleanolic acid"
+        },
+        {
+            "EnglishName": "acnetin -a lotion 15ml",
+            "ArabicName": "اكينتين لوشن 15 ملل",
+            "New_price": "6",
+            "Old_price": "6",
+            "Code": "6221051060254",
+            "composition": "tretinoin"
+        },
+        {
+            "EnglishName": "acnetin-a cream 30 gm",
+            "ArabicName": "اكينتين 30 جرام كريم",
+            "New_price": "9",
+            "Old_price": "9",
+            "Code": "6221051080078",
+            "composition": "tretinoin"
+        },
+        {
+            "EnglishName": "acni-care  2%  25 ml lotion",
+            "ArabicName": "اكنى كير 2% لوسيون25ملل",
+            "New_price": "8",
+            "Old_price": "8",
+            "Code": "6221051060278",
+            "composition": "erythromycin"
+        },
+        {
+            "EnglishName": "acni-care 2% 20gm gel",
+            "ArabicName": "اكنى-كير 2% 20جم جيل",
+            "New_price": "6.5",
+            "Old_price": "6.5",
+            "Code": "6221051150030",
+            "composition": "erythromycin"
+        },
+        {
+            "EnglishName": "acnidu gel",
+            "ArabicName": "اكنيديو جيل",
+            "New_price": "16.2",
+            "Old_price": "16.2",
+            "Code": "6223002453610",
+            "composition": "benzoyl peroxide+erythromycin"
+        },
+        {
+            "EnglishName": "acretin  0.025% cream 30g",
+            "ArabicName": "اكرتين 0.025% كريم 30جرام",
+            "New_price": "9",
+            "Old_price": "9",
+            "Code": "6281276025353",
+            "composition": "tretinoin  0.025%"
+        },
+        {
+            "EnglishName": "acretin 0.05% cream",
+            "ArabicName": "اكرتين 0.05% كريم 30جرام",
+            "New_price": "9",
+            "Old_price": "10",
+            "Code": "6281276015354",
+            "composition": "tretinoin  0.05 %"
+        },
+        {
+            "EnglishName": "act life 200mcg 20cap",
+            "ArabicName": "اكت لايف 200مكجم 20كبسولة",
+            "New_price": "54",
+            "Old_price": "35.95",
+            "Code": "6224000743239",
+            "composition": "chromium picolinate"
+        },
+        {
+            "EnglishName": "actifast 12.5 mg 20/tab",
+            "ArabicName": "اكتيفاست 5و12 مجم  20 قرص",
+            "New_price": "8.5",
+            "Old_price": "8.5",
+            "Code": "6221051011454",
+            "composition": "diclofenac"
+        },
+        {
+            "EnglishName": "actifed  12/tab",
+            "ArabicName": "اكتيفيد 12 قرص",
+            "New_price": "5",
+            "Old_price": "5",
+            "Code": "6221045000440",
+            "composition": "triprolidine  2.5 mg+pseudoephedrine  60"
+        },
+        {
+            "EnglishName": "actifed 120ml syrup",
+            "ArabicName": "اكتيفيد 120 مل شراب",
+            "New_price": "5.5",
+            "Old_price": "5.5",
+            "Code": "6221045000648",
+            "composition": "triprolidine  1.25 mg+pseudoephedrine  3"
+        },
+        {
+            "EnglishName": "actifed expectorant 120ml syrup",
+            "ArabicName": "اكتيفيد اكسبيكتوران 120 مل شراب",
+            "New_price": "6.25",
+            "Old_price": "6.25",
+            "Code": "6221045000631",
+            "composition": "triprolidine hydrochloride  30 mg"
+        },
+        {
+            "EnglishName": "actimar    50 cap",
+            "ArabicName": "اكتيمار 50 كبسول",
+            "New_price": "31",
+            "Old_price": "30",
+            "Code": "6224001050039",
+            "composition": "l-glutamine+taurine+b1+b6+zinc"
+        },
+        {
+            "EnglishName": "activate 200 mg  30 tab",
+            "ArabicName": "اكتيفيت 200 مجم 30 اقراص",
+            "New_price": "26",
+            "Old_price": "18",
+            "Code": "6221051010051",
+            "composition": "sulbutiamine  200 mg"
+        },
+        {
+            "EnglishName": "activate 200mg 40/tab",
+            "ArabicName": "اكتيفيت 200 مجم 40 قرص",
+            "New_price": "26",
+            "Old_price": "26",
+            "Code": "6221051014394",
+            "composition": "sulbutiamine  200 mg"
+        },
+        {
+            "EnglishName": "active hair oil 120 ml",
+            "ArabicName": "اكتيف زيت شعر 120مل",
+            "New_price": "85",
+            "Old_price": "75",
+            "Code": "6224000201685"
+        },
+        {
+            "EnglishName": "active shampoo 250ml",
+            "ArabicName": "اكتيف شامبو 250مل",
+            "New_price": "95",
+            "Old_price": "60",
+            "Code": "6224000201692"
+        },
+        {
+            "EnglishName": "activent sr 8mg 20tab",
+            "ArabicName": "اكتيفنت اس ار 8مجم 20قرص",
+            "New_price": "13.2",
+            "Old_price": "13.2",
+            "Code": "6221508023016",
+            "composition": "salbutamol"
+        },
+        {
+            "EnglishName": "actonel  35 mg  2 tab",
+            "ArabicName": "اكتونيل 35 مجم 2 اقراص",
+            "New_price": "121.5",
+            "Old_price": "110",
+            "Code": "5690528261318",
+            "composition": "risedronate sodium"
+        },
+        {
+            "EnglishName": "actonel  5 mg  14 tab",
+            "ArabicName": "اكتونيل 5 مجم 14 اقراص",
+            "New_price": "80",
+            "Old_price": "80",
+            "Code": "3587080003048",
+            "composition": "risedronate sodium"
+        },
+        {
+            "EnglishName": "actos 15 ml tab",
+            "ArabicName": "اكتوس 15 ملى اقراص",
+            "New_price": "154",
+            "Old_price": "154",
+            "Code": "6251159024612",
+            "composition": "pioglitazone"
+        },
+        {
+            "EnglishName": "actos 30 ml tab",
+            "ArabicName": "اكتوس 30 مل 30 قرص",
+            "New_price": "210",
+            "Old_price": "210",
+            "Code": "6251159024605",
+            "composition": "pioglitazone"
+        },
+        {
+            "EnglishName": "actozone 30mg 10/tab",
+            "ArabicName": "اكتوزون 30مجم 10اقراص",
+            "New_price": "33.5",
+            "Old_price": "33.5",
+            "Code": "6221025017772",
+            "composition": "piogilatazone"
+        },
+        {
+            "EnglishName": "actozone 45mg 10/tab",
+            "ArabicName": "اكتوزون 45 مجم 10اقراص",
+            "New_price": "50",
+            "Old_price": "50",
+            "Code": "6221025017765",
+            "composition": "piogilatazone"
+        },
+        {
+            "EnglishName": "acular ls 5ml eye drops",
+            "ArabicName": "اكيولار 5 مل قطرة عين",
+            "New_price": "41.5",
+            "Old_price": "41.5",
+            "Code": "5016007203790",
+            "composition": "ketorolac"
+        },
+        {
+            "EnglishName": "acupan 30mg 20/tab",
+            "ArabicName": "اكيوبان 30 مجم 20 قرص",
+            "New_price": "10",
+            "Old_price": "5",
+            "Code": "6221032110022",
+            "composition": "nefopam"
+        },
+        {
+            "EnglishName": "acyclostad cream",
+            "ArabicName": "اسيكلوستاد  كريم 10 جم",
+            "New_price": "9.75",
+            "Old_price": "6.5",
+            "Code": "6223002148066",
+            "composition": "acyclovir"
+        },
+        {
+            "EnglishName": "acyclovir  800  mg 35 tab",
+            "ArabicName": "اسيكلوفير 800 مجم 35 قراص",
+            "New_price": "144",
+            "Old_price": "144",
+            "Code": "6223002143306",
+            "composition": "acyclovir"
+        },
+        {
+            "EnglishName": "acyclovir 3% 5g eye oint",
+            "ArabicName": "اسيكلوفير 5 ج مرهم عين",
+            "New_price": "5.75",
+            "Old_price": "3.8",
+            "Code": "6221035006025",
+            "composition": "acyclovir"
+        },
+        {
+            "EnglishName": "acyclovir 5% cream 10g",
+            "ArabicName": "اسيكلوفير5%  10 جم كريم",
+            "New_price": "9.5",
+            "Old_price": "9.5",
+            "Code": "6221035008005",
+            "composition": "acyclovir  5%"
+        },
+        {
+            "EnglishName": "adamine  20/cap",
+            "ArabicName": "ادامين  20 كبسولة",
+            "New_price": "7",
+            "Old_price": "7",
+            "Code": "6223003970017",
+            "composition": "amantadine"
+        },
+        {
+            "EnglishName": "adancor 10mg 30 tab",
+            "ArabicName": "ادانكور 10 مجم 30 قرص",
+            "New_price": "69",
+            "Old_price": "69",
+            "Code": "6222003702437",
+            "composition": "nicorandil"
+        },
+        {
+            "EnglishName": "adapalene 30g gel",
+            "ArabicName": "ادابالين 30جم جيل",
+            "New_price": "12",
+            "Old_price": "12",
+            "Code": "6223002570119",
+            "composition": "retinoid"
+        },
+        {
+            "EnglishName": "adaptan 300mg 10cap",
+            "ArabicName": "ادابتان 300مجم 10كبسول",
+            "New_price": "21.6",
+            "Old_price": "21.6",
+            "Code": "6221076120940",
+            "composition": "gabapentin"
+        },
+        {
+            "EnglishName": "adaptan 400 tab",
+            "ArabicName": "ادبتان 400 اقراص",
+            "New_price": "31.2",
+            "Old_price": "31.2",
+            "Code": "6221076120070",
+            "composition": "gabapentin"
+        },
+        {
+            "EnglishName": "adcocetine 1%  15 gm oint",
+            "ArabicName": "ادكوستين 15 جم مرهم",
+            "New_price": "3.75",
+            "Old_price": "3.8",
+            "Code": "6221060001361",
+            "composition": "chloramphenicol"
+        },
+        {
+            "EnglishName": "adcokion 10mg 20/tab",
+            "ArabicName": "ادكوكيون 10 جم20 قرص",
+            "New_price": "14",
+            "Old_price": "14",
+            "Code": "6221060004096",
+            "composition": "vitamin k1 (phytomenadione)"
+        },
+        {
+            "EnglishName": "adcopanthene cream 20 gm",
+            "ArabicName": "ادكو بانتين كريم 20 جم",
+            "New_price": "12",
+            "Old_price": "5.75",
+            "Code": "6221060004782",
+            "composition": "panthenol"
+        },
+        {
+            "EnglishName": "adeno- b 6   10 tab",
+            "ArabicName": "ادينو بي 6  10اقراص",
+            "New_price": "7.7",
+            "Old_price": "8",
+            "Code": "6221507010055",
+            "composition": "atp+co-carboxylase+nicotinamide"
+        },
+        {
+            "EnglishName": "adeno- b 6   20 tab",
+            "ArabicName": "ادينو بي 6  20اقراص",
+            "New_price": "14.4",
+            "Old_price": "14.4",
+            "Code": "6224000730369",
+            "composition": "atp+co-carboxylase+nicotinamide"
+        },
+        {
+            "EnglishName": "adenoplex forte 3/amp",
+            "ArabicName": "ادينوبلكس فورت 3امبولات",
+            "New_price": "11.8",
+            "Old_price": "11.8",
+            "Code": "6221077150113",
+            "composition": "atp+co-carboxylase+nicotinamide+vitamin"
+        },
+        {
+            "EnglishName": "adeno-sed b forte 3/amp",
+            "ArabicName": "ادينو-سيد ب فورت 3 امبولات",
+            "New_price": "7.5",
+            "Old_price": "9.5",
+            "Code": "6221042416022",
+            "composition": "atp+co-carboxylase+nicotinamide"
+        },
+        {
+            "EnglishName": "adenosine forte 3/amp",
+            "ArabicName": "ادينوسين فورت 3امبولات",
+            "New_price": "9.5",
+            "Old_price": "9.5",
+            "Code": "6221077151110",
+            "composition": "vit b+ atp"
+        },
+        {
+            "EnglishName": "adenox forte  20/tab",
+            "ArabicName": "ادينوكس فورت 20 قرص",
+            "New_price": "11.5",
+            "Old_price": "11.5",
+            "Code": "6221051010181",
+            "composition": "atp+vitamin b6"
+        },
+        {
+            "EnglishName": "ad-muc  oint",
+            "ArabicName": "اد-موك  مرهم",
+            "New_price": "11",
+            "Old_price": "11",
+            "Code": "6223003579753",
+            "composition": "chamomile+myrrh tincture"
+        },
+        {
+            "EnglishName": "adol 500mg 24/tab",
+            "ArabicName": "ادول 500ملغ 24قرص",
+            "New_price": "12",
+            "Old_price": "12",
+            "Code": "6291100080069",
+            "composition": "paracetamol  500 mg"
+        },
+        {
+            "EnglishName": "adol extra  24/cap",
+            "ArabicName": "ادول اكسترا 24 قرص",
+            "New_price": "16.5",
+            "Old_price": "16.5",
+            "Code": "6291100080557",
+            "composition": "paracetmol+caffeine"
+        },
+        {
+            "EnglishName": "adol sinns 24/cap",
+            "ArabicName": "ادول ساينس 24كبسولة",
+            "New_price": "12",
+            "Old_price": "10",
+            "Code": "6223003840440",
+            "composition": "paracetamol(acetaminophen)+pseudoephedrine"
+        },
+        {
+            "EnglishName": "adolor 10mg 20 tab",
+            "ArabicName": "ادولور10مجم 20 قرص",
+            "New_price": "12.75",
+            "Old_price": "12.75",
+            "Code": "6221151001805",
+            "composition": "ketorolac tromethamine"
+        },
+        {
+            "EnglishName": "adolor 15 mg 3 amp",
+            "ArabicName": "ادولور 15مجم 3 امبولات",
+            "New_price": "7.5",
+            "Old_price": "7.5",
+            "Code": "6223000012208",
+            "composition": "ketorolac"
+        },
+        {
+            "EnglishName": "adolor 30 mg 3 amp",
+            "ArabicName": "ادولور 30 مجم 3امبول",
+            "New_price": "12",
+            "Old_price": "12",
+            "Code": "6223000013748",
+            "composition": "ketorolac"
+        },
+        {
+            "EnglishName": "advancrib 400 mg 5 tab",
+            "ArabicName": "ادفانكريب 400 مجم  5قرص",
+            "New_price": "47",
+            "Old_price": "47",
+            "Code": "6221081155586",
+            "composition": "moxifloxacin"
+        },
+        {
+            "EnglishName": "advic cream 50gm",
+            "ArabicName": "ادفيك كريم 50 جرام",
+            "New_price": "17.5",
+            "Old_price": "21",
+            "Code": "6210255583560"
+        }
+    ]
+}

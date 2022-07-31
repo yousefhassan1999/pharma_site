@@ -5,6 +5,27 @@
 .main__chatlist.open .chatlist__items {
   display: block;
 }
+.search_wrap {
+  background-color: #e6e5ea;
+  border-radius: 5px;
+}
+.search_wrap input {
+  background-color: transparent;
+  border: none;
+  padding: 15px 15px;
+  outline: none;
+  width: 80%;
+  padding-right: 0;
+}
+.search-btn {
+  height: 46px;
+  border: none;
+  background-color: transparent;
+  outline: none;
+  width: 20%;
+  cursor: pointer;
+  font-size: 20px;
+}
 @media screen and (min-width: 768px) {
   .main__chatlist {
     border-right: 1px solid #ebe7fb;
@@ -22,6 +43,12 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  border-bottom: 2px solid #cbc9cf;
+}
+.chatlist__heading h2{
+  margin-top: 10px;
+  font-size: xx-large;
+  font-weight: bolder;
 }
 .btn-nobg {
   background-color: transparent;
