@@ -6,17 +6,10 @@
   display: flex;
   flex-direction: column;
 }
-@media screen and (min-width: 768px){
-  .main__chatbody {
-    display: flex;
-    flex-direction: row;
-  }
-}
-
-@media screen and (min-width: 992px){
-  
-}
-
-@media screen and (min-width: 1200px){
-
+.LoadMore{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
 }

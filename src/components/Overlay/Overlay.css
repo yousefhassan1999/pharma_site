@@ -1,0 +1,58 @@
+/* header */
+#intro {
+  margin-top: 80px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../../images/1.jpg");
+  min-height: 85vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: #fff;
+}
+.hero-div {
+  width: 100%;
+  flex: 1;
+  flex-direction: column;
+  align-items: initial;
+}
+.hero-div h1 {
+  font-size: 1.55rem;
+  padding-bottom: 0.4rem;
+}
+.hero-div h1 span {
+  color: #ffffff;
+  font-weight: bolder;
+  font-size: 2rem;
+}
+.hero-div p {
+  font-size: 1.3rem;
+  letter-spacing: 3px;
+}
+/* #### Media Queries #### */
+
+@media screen and (max-width: 768px) {
+  #intro {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url("../../images/5.jpg");
+    background-size: cover;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .hero-div h1 {
+    font-size: 2.8rem;
+  }
+  .hero-div h1 span {
+    font-size: 2.5rem;
+    color: #f9004d;
+    font-weight: bolder;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .hero-div h1 {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
