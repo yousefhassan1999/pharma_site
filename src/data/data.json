@@ -4,25 +4,25 @@
             "English_Name": "1 2 3 tablets 20 tab.",
             "Arabic_Name": "ون تو ثري 20 قرص",
             "New_Price": "15",
-            "old price ": "15",
+            "old_price ": "15",
             "Code": "6223003930479",
             "Composition": "pseudoephedrine+paracetamol+chlorpheniramine",
-            "Picture": "http://egyptiandrugstore.com/image/cache/data/manar10/123%20tab-400x400.png"
+            "Picture": "https://images.yaoota.com/Zbfej2Zr3qhQ8OurMhptwX4TjzM=/trim/yaootaweb-production/media/crawledproductimages/db2e43617f772d9dcefba9595229b6a401ce9da4.jpg"
         },
         {
             "English_Name": "1 2 3 syrup 120 ml",
             "Arabic_Name": "ون تو ثري شراب 120 مل",
             "New_Price": "10.5",
-            "old price ": "10.5",
+            "old_price ": "10.5",
             "Code": "6223003930488",
             "Composition": "pseudoephedrine+paracetamol+chlorpheniramine",
-            "Picture": "http://egyptiandrugstore.com/image/cache/data/MANAR%2020/123%20SYP2-400x400.png"
+            "Picture": "https://images.yaoota.com/4tSTet7YAGF0jthobqnVAUKPn6M=/trim/fit-in/500x500/filters:quality(80)/yaootaweb-production/media/crawledproductimages/a2826b190fbfc1f84b99181c27c52cd66275b44b.jpg"
         },
         {
             "English_Name": "a1 baby cream 100gm",
             "Arabic_Name": "ايه وان بيبى كريم 100جم",
             "New_Price": "40",
-            "old price ": "29.75",
+            "old_price ": "29.75",
             "Code": "6223003930479",
             "Composition": "castor oil+zinc oxide+arachis oil+bees wax",
             "Picture": "https://i.imgur.com/JKPkShu.png"
@@ -31,7 +31,7 @@
             "English_Name": "abc  plus  14 tab",
             "Arabic_Name": "اى بي سى بلاس 14 اقراص",
             "New_Price": "19.8",
-            "old price ": "19.8",
+            "old_price ": "19.8",
             "Code": "6222003925089",
             "Composition": "multivitamins+minerals +antioxidants",
             "Picture": "https://new.almalomat.com/wp-content/uploads/2021/01/%D8%A3%D9%8A%D9%87-%D8%A8%D9%8A-%D8%B3%D9%8A-%D8%A8%D9%84%D8%B3-%D8%B3%D9%86%D9%8A%D9%88%D8%B1-ABC-plus-senior-%D9%84%D8%B9%D9%84%D8%A7%D8%AC-%D8%B3%D9%88%D8%A1-%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A93.jpg"
@@ -40,7 +40,7 @@
             "English_Name": "abidec multivitamin drops  25ml",
             "Arabic_Name": "ابيديك فيتامين نقط للطفل 25مل",
             "New_Price": "60",
-            "old price ": "60",
+            "old_price ": "60",
             "Code": "5012616173004",
             "Composition": "multivitamins",
             "Picture": "https://i.ebayimg.com/images/g/6EwAAOSw7ThUqAn6/s-l400.jpg"
@@ -49,7 +49,7 @@
             "English_Name": "abidec multivitamin drops for inf&child 50ml",
             "Arabic_Name": "ابيديك فيتامين نقط للطفل",
             "New_Price": "105",
-            "old price ": "105",
+            "old_price ": "105",
             "Code": "5010123709501",
             "Composition": "multivitamins",
             "Picture": "https://www.chemist-4-u.com/media/catalog/product/cache/a4939822ed248ead3c99b1bc10d66d56/7/1/71c73uqtltl._ac_sl1500_.jpg"
@@ -58,7 +58,7 @@
             "English_Name": "abilaxine 5mg 20/tab",
             "Arabic_Name": "ابى لاكسين اقراص 20 قرص",
             "New_Price": "4.5",
-            "old price ": "2.25",
+            "old_price ": "2.25",
             "Code": "6221045000839",
             "Composition": "bisacodyl",
             "Picture": "https://dlildwa.com/medrg/upload/1630828420.jpg"
@@ -67,7 +67,7 @@
             "English_Name": "abilia 15 mg 10 tablets",
             "Arabic_Name": "ابيليا 15 مجم 10اقراص",
             "New_Price": "35",
-            "old price ": "35",
+            "old_price ": "35",
             "Code": "6222006500955",
             "Composition": "aripiprazole",
             "Picture": "https://new.almalomat.com/wp-content/uploads/2021/09/%D8%A3%D8%A8%D9%8A%D9%84%D9%8A%D8%A7-Abilia-%D9%84%D8%B9%D9%84%D8%A7%D8%AC-%D8%A7%D9%84%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9-378x378.jpg"
@@ -76,7 +76,7 @@
             "English_Name": "abilia 20mg /10film coated tablets",
             "Arabic_Name": "ابيليا 20 مجم 10اقراص مغلفه",
             "New_Price": "40",
-            "old price ": "40",
+            "old_price ": "40",
             "Code": "6222006500948",
             "Composition": "aripiprazole",
             "Picture": "https://www.almazeyd.com/wp-content/uploads/Abilia.jpg"
@@ -85,25 +85,25 @@
             "English_Name": "abilify 10mg 10/tab",
             "Arabic_Name": "ابيليفاى 10مجم  10اقراص",
             "New_Price": "176.5",
-            "old price ": "176.5",
+            "old_price ": "176.5",
             "Code": "6222014003547",
             "Composition": "aripiprazole  10 mg",
-            "Picture": "data:image/jpeg;base64,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"
+            "Picture": "https://images.yaoota.com/pPcWuBfUdppx6rOxtrGOuHpwXQU=/trim/yaootaweb-production/media/crawledproductimages/72ef7a7fe974028654d7cae9f212badb929b8c44.jpg"
         },
         {
             "English_Name": "abilify 15 mg 10 tab",
             "Arabic_Name": "ابيليفاي  15مجم  10اقراص",
             "New_Price": "264.5",
-            "old price ": "264.5",
+            "old_price ": "264.5",
             "Code": "6222014003530",
             "Composition": "aripiprazole",
-            "Picture": "http://egyptiandrugstore.com/image/cache/data/manar4/abilify%2015mg-400x400.png"
+            "Picture": "https://seif-online.com/wp-content/uploads/2020/01/81959-.jpg"
         },
         {
             "English_Name": "abimol 120ml syrup",
             "Arabic_Name": "ابيمول  125 ملل شراب",
             "New_Price": "5",
-            "old price ": "5",
+            "old_price ": "5",
             "Code": "6221045000600",
             "Composition": "paracetamol  150 mg",
             "Picture": "https://images.yaoota.com/NYcVki7ndyXaruCXPdFbBmMBrx0=/trim/yaootaweb-production/media/crawledproductimages/9353b3297ec0b3e149908245593db1e9268230d2.jpg"
@@ -112,34 +112,34 @@
             "English_Name": "abimol 500mg 20/tab",
             "Arabic_Name": "ابيمول 500 مجم 20 قرص",
             "New_Price": "8",
-            "old price ": "8",
+            "old_price ": "8",
             "Code": "6221045000341",
             "Composition": "paracetamol  500 mg",
-            "Picture": "http://egyptiandrugstore.com/image/cache/data/manar13/ABIMOL-400x400.png"
+            "Picture": "https://bloompharmacy.com/media/catalog/product/cache/7c5ead97c6720b5099c8d1aa93b3f780/a/b/abimol_tablet_2.jpg"
         },
         {
             "English_Name": "abimol extra 500mg 20/tab",
             "Arabic_Name": "ابيمول اكسترا 500 مجم 20 قرص",
             "New_Price": "9",
-            "old price ": "9",
+            "old_price ": "9",
             "Code": "6221045011101",
             "Composition": "paracetamol  +caffeine",
-            "Picture": "http://egyptiandrugstore.com/image/cache/data/manar13/ABIMOL%20EXTRA-400x400.png"
+            "Picture": "https://images.yaoota.com/tgDv2ko6zY4NpLGsck-iS7LznWc=/trim/fit-in/500x500/filters:quality(80)/yaootaweb-production/media/crawledproductimages/e29faa6520c91ab155c6d29026603992cd9bb329.jpg"
         },
         {
             "English_Name": "abimol inf 5 supp",
             "Arabic_Name": "ابيمول 5 اقماع للاطفال",
             "New_Price": "4.5",
-            "old price ": "4.5",
+            "old_price ": "4.5",
             "Code": "6221045000808",
             "Composition": "paracetamol  300 mg",
-            "Picture": "http://egyptiandrugstore.com/image/cache/data/manar13/ABIMOL%20INF-400x400.png"
+            "Picture": "https://images.yaoota.com/_A9R26vTUwkD0SCcadw5XLy4UDs=/trim/yaootaweb-production/media/crawledproductimages/428ee3edc062150b6cbd024e03de2ffdd81f1906.jpg"
         },
         {
             "English_Name": "acapril  5  mg  10  tab",
             "Arabic_Name": "اكابريل 5 مجم 10 اقراص",
             "New_Price": "6.75",
-            "old price ": "6.75",
+            "old_price ": "6.75",
             "Code": "6224000875190",
             "Composition": "enalapril maleate  5  mg",
             "Picture": "https://habibpharmacy.com/wp-content/uploads/2020/11/Acapril.png"
@@ -148,7 +148,7 @@
             "English_Name": "acapril 20mg 10tab",
             "Arabic_Name": "اكابريل20مجم10 قراص",
             "New_Price": "18",
-            "old price ": "14",
+            "old_price ": "14",
             "Code": "6224000875152",
             "Composition": "enalapril",
             "Picture": "https://habibpharmacy.com/wp-content/uploads/2020/11/Acapril.png"
@@ -157,16 +157,16 @@
             "English_Name": "acc  200mg  20/sachet",
             "Arabic_Name": "اية سى سى 200مجم 20اكياس",
             "New_Price": "28",
-            "old price ": "28",
+            "old_price ": "28",
             "Code": "6222003701560",
             "Composition": "acetylcysteine  200 mg",
-            "Picture": "http://cdn.shopify.com/s/files/1/0056/5392/1861/products/acc-200mg-n20-milteliai_1200x1200.png?v=1595184808"
+            "Picture": "https://media.ziqqi.com/media/product/large/proimage1427550672.jpg"
         },
         {
             "English_Name": "acc long  600mg  10/eff tab",
             "Arabic_Name": "اية سى سى 600 مجم فوار 10 اقراص فوار",
             "New_Price": "19.2",
-            "old price ": "32",
+            "old_price ": "32",
             "Code": "6222003701553",
             "Composition": "acetylcystine",
             "Picture": "https://www.mujlekarnik.cz/produkt-image/velke/4030855002498/acc-long-600mg-tbl-eff-10.webp"
@@ -175,7 +175,7 @@
             "English_Name": "acetaprofen 100ml susp",
             "Arabic_Name": "اسيتابروفين 100مل معلق",
             "New_Price": "5",
-            "old price ": "5",
+            "old_price ": "5",
             "Code": "6221068402993",
             "Composition": "ibuprofen  125 mg+paracetamol 100 mg",
             "Picture": "https://images.yaoota.com/ApgeXUj3t6BzdORVfdaJYWtIO9U=/trim/yaootaweb-production/media/crawledproductimages/04a6659c4dd226f0ab643a14559fba9d.jpg"
@@ -184,162 +184,178 @@
             "English_Name": "acetylcistein 200 mg 5 gm- 20 sach",
             "Arabic_Name": "استيل سيستابين 200 مجم 20 كيس",
             "New_Price": "14",
-            "old price ": "18",
+            "old_price ": "18",
             "Code": "6221042202069",
             "Composition": "acetylcysteine",
-            "Picture": "http://egyptiandrugstore.com/image/cache/data/manar3/acetylcisteine%20200-400x400.png"
+            "Picture": "https://media.gemini.media/img/large/2021/8/2/2021_8_2_13_39_43_489.jpg"
         },
         {
             "English_Name": "acetylcistein 600 mg eff. instant gran. in sac",
             "Arabic_Name": "استيل سيستابين 600 مجم  فوار",
             "New_Price": "30",
-            "old price ": "21.75",
+            "old_price ": "21.75",
             "Code": "6221042216011",
             "Composition": "acetylcysteine",
-            "Picture": "http://egyptiandrugstore.com/image/cache/data/manar3/acetylcistein%20600-400x400.png"
+            "Picture": "https://www.rosheta.com/upload/a974444febd0a4cfba54c832786db7f449df1517c133e16c93faa2494a9c460b.jpg"
         },
         {
             "English_Name": "acetylcisteine 200mg 10/sachets",
             "Arabic_Name": "استيل سستايين 200مجم  10اكياس",
             "New_Price": "14",
-            "old price ": "14",
+            "old_price ": "14",
             "Code": "6221042202014",
             "Composition": "acetylcysteine",
-            "Picture": "http://egyptiandrugstore.com/image/cache/data/manar3/acetylcisteine%20200-400x400.png"
+            "Picture": "https://habibpharmacy.com/wp-content/uploads/2021/02/acetylcistein200-mg.jpg"
         },
         {
             "English_Name": "achtenon 2mg 20/tab",
             "Arabic_Name": "اكتينون 2مجم  20قرص",
             "New_Price": "18",
-            "old price ": "18",
+            "old_price ": "18",
             "Code": "6221060005086",
-            "Composition": "biperidene"
+            "Composition": "biperidene",
+            "Picture": "https://images.yaoota.com/ltJemKvUnoUTmVXR8FRf-nnzfm0=/trim/yaootaweb-production/media/crawledproductimages/e7421cf47a0913d6bf441a91f91dc914a30a8f3b.jpg"
         },
         {
             "English_Name": "acicone  chew  20  tab",
             "Arabic_Name": "اسيكون 20 اقراص",
             "New_Price": "28.5",
-            "old price ": "6.5",
+            "old_price ": "6.5",
             "Code": "6221508014014",
-            "Composition": "magaldrate"
+            "Composition": "magaldrate",
+            "Picture": "https://images.yaoota.com/abUaifD0GyznElfL5Dzyh4lV258=/trim/yaootaweb-production/media/crawledproductimages/f3a47d993bb6a6cfda2ef9411a61e1e66079e02e.jpg"
         },
         {
             "English_Name": "acicone 120ml susp",
             "Arabic_Name": "اسيكون 120مل معلق",
             "New_Price": "4.75",
-            "old price ": "4.75",
+            "old_price ": "4.75",
             "Code": "6221508060929",
-            "Composition": "magaldrate"
+            "Composition": "magaldrate",
+            "Picture": "https://images.yaoota.com/RtayrLNK6trzEHXD1UY66QjUuZY=/trim/yaootaweb-production/media/crawledproductimages/ecc3a2d56aba9813ff8e58d2d2b9ea3967221b18.jpg"
         },
         {
             "English_Name": "acicone- s  susp 540 mg / 5 ml-120 ml",
             "Arabic_Name": "اسيكون اس 120 ملل معلق",
             "New_Price": "5",
-            "old price ": "5",
+            "old_price ": "5",
             "Code": "6221508061025",
-            "Composition": "magaldrate+dimethicone  540 mg"
+            "Composition": "magaldrate+dimethicone  540 mg",
+            "Picture": "https://images.yaoota.com/Nsw6RjL8yUsUqyxd0dk3sHkz7WY=/trim/yaootaweb-production/media/crawledproductimages/340980402b56b863d3fa9d8767ce4ba567fcabb8.jpg"
         },
         {
             "English_Name": "acicone susp- 200 ml",
             "Arabic_Name": "اسيكون شراب 200 ملل",
             "New_Price": "8",
-            "old price ": "7.5",
+            "old_price ": "7.5",
             "Code": "6221508060912",
-            "Composition": "magaldrate"
+            "Composition": "magaldrate",
+            "Picture": "https://images.yaoota.com/2GkSE_VT3_yHLf8sv_exBrXeTeA=/trim/yaootaweb-production/media/crawledproductimages/b26479b3a05249ed700f58592d725ad0af020dc4.jpg"
         },
         {
             "English_Name": "acicone-s  20/tab",
             "Arabic_Name": "اسيكون-اس 20 قرص",
             "New_Price": "6.5",
-            "old price ": "6.5",
+            "old_price ": "6.5",
             "Code": "6221508014519",
-            "Composition": "magaldrate+dimethicone"
+            "Composition": "magaldrate+dimethicone",
+            "Picture": "https://habibpharmacy.com/wp-content/uploads/2020/11/Acicone-S.png"
         },
         {
             "English_Name": "acicone-s 200ml susp",
             "Arabic_Name": "اسيكون-اس 200 مل شراب",
             "New_Price": "7.5",
-            "old price ": "8",
+            "old_price ": "8",
             "Code": "6221508061018",
-            "Composition": "magaldrate+dimethicone  540 mg"
+            "Composition": "magaldrate+dimethicone  540 mg",
+            "Picture": "https://images.yaoota.com/2GkSE_VT3_yHLf8sv_exBrXeTeA=/trim/yaootaweb-production/media/crawledproductimages/b26479b3a05249ed700f58592d725ad0af020dc4.jpg"
         },
         {
             "English_Name": "acilight 150mg 30/tab",
             "Arabic_Name": "اسيلايت 150 مجم 30قرص",
             "New_Price": "29.25",
-            "old price ": "29.25",
+            "old_price ": "29.25",
             "Code": "6223004600098",
-            "Composition": "ranitidine"
+            "Composition": "ranitidine",
+            "Picture": "https://souqaldawaa.com/wp-content/uploads/2020/02/21.jpeg"
         },
         {
             "English_Name": "aciloc  75 mg 100 tab",
             "Arabic_Name": "اسيلوك  75 مجم 100 اقراص",
             "New_Price": "7.5",
-            "old price ": "36",
+            "old_price ": "36",
             "Code": "6221051010075",
-            "Composition": "ranitidine  75 mg"
+            "Composition": "ranitidine  75 mg",
+            "Picture": "https://www.rosheta.com/upload/1b4376427215a31c627b7aa0f17b12ebb9fb9d37bdf15a699bc071ce49baea53.jpg"
         },
         {
             "English_Name": "aciloc 150mg 5 sachets effer",
             "Arabic_Name": "اسيلوك 150مجم 5اكياس فوارة",
             "New_Price": "7.5",
-            "old price ": "7.5",
+            "old_price ": "7.5",
             "Code": "6221051030172",
-            "Composition": "ranitidine"
+            "Composition": "ranitidine",
+            "Picture": "https://images.yaoota.com/GRj2YCQ061nmvK-9gwZ3KN_QRD4=/trim/yaootaweb-production/media/crawledproductimages/240e7804e9231a39434cd943209be32c8105dfd8.jpg"
         },
         {
             "English_Name": "aciloc 300 /20tab",
             "Arabic_Name": "اسيلوك 300 /20قرص",
             "New_Price": "33.85",
-            "old price ": "34",
+            "old_price ": "34",
             "Code": "6221051012338",
-            "Composition": "ranitidine"
+            "Composition": "ranitidine",
+            "Picture": "https://images.yaoota.com/AwZNBgVrwIbWIkkpEu9jNIuuceQ=/trim/yaootaweb-production/media/crawledproductimages/cb3aab111c1f8af6562be442b196cfe40227c8ac.jpg"
         },
         {
             "English_Name": "aciloc 300mg 10/tab",
             "Arabic_Name": "اسيلوك 300مجم  10اقراص",
             "New_Price": "17",
-            "old price ": "11.25",
+            "old_price ": "11.25",
             "Code": "6221051010068",
-            "Composition": "ranitidine  300mg"
+            "Composition": "ranitidine  300mg",
+            "Picture": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/eypngcuomkifu49im84m.jpg"
         },
         {
             "English_Name": "aciloc 75mg 20/tab",
             "Arabic_Name": "اسيلوك  75 مجم 20قرص",
             "New_Price": "15",
-            "old price ": "15",
+            "old_price ": "15",
             "Code": "6221051011386",
-            "Composition": "ranitidine  75 mg"
+            "Composition": "ranitidine  75 mg",
+            "Picture": "https://images.yaoota.com/a3TlqlZMk08QdZvTEX3fw2EJ6MM=/trim/fit-in/500x500/filters:quality(80)/yaootaweb-production/media/crawledproductimages/8f6c254a966346b14130db7042acd590b8f90e3a.jpg"
         },
         {
             "English_Name": "acitretin 10mg 30/cap",
             "Arabic_Name": "اسيتريتن 10مجم  30 كبسولة",
             "New_Price": "87",
-            "old price ": "87",
+            "old_price ": "87",
             "Code": "6224000808006",
-            "Composition": "acitretin  10 mg"
+            "Composition": "acitretin  10 mg",
+            "Picture": "https://images.yaoota.com/KD0qAMldGmyaa2Dbf9-Fhfbe5uk=/trim/yaootaweb-production/media/crawledproductimages/579981bb799e7e6967366763f2ac24bc9efc3f10.jpg"
         },
         {
             "English_Name": "acitretin 25 mg 30 cap",
             "Arabic_Name": "اسيتريتين 25مجم  30كبسول",
             "New_Price": "135",
-            "old price ": "135",
+            "old_price ": "135",
             "Code": "6224000808013",
-            "Composition": "acitretin  25 mg"
+            "Composition": "acitretin  25 mg",
+            "Picture": "https://images.yaoota.com/p0vUB2YNjVwxMaPsDPF9dIEdyGU=/trim/yaootaweb-production/media/crawledproductimages/207f7a51071aba1c5e2324b554b905afab9b2323.jpg"
         },
         {
             "English_Name": "acivirax 800mg 20tab",
             "Arabic_Name": "اسيفيراكس 800مجم 20 قرص",
             "New_Price": "62",
-            "old price ": "62",
+            "old_price ": "62",
             "Code": "6222001407808",
-            "Composition": "acyclovir"
+            "Composition": "acyclovir",
+            "Picture": "https://images.yaoota.com/tjPHFaPA69gYpOF-ib-advnSKIQ=/trim/fit-in/500x500/filters:quality(80)/yaootaweb-production/media/crawledproductimages/300a3d992f9e1efdc5fd28767fe5c18d401b77cf.jpg"
         },
         {
             "English_Name": "acne free  30g  cream",
             "Arabic_Name": "اكنى فرى 30 جم كريم",
             "New_Price": "7",
-            "old price ": "7",
+            "old_price ": "7",
             "Code": "6221025002860",
             "Composition": "tretinoin"
         },
@@ -347,7 +363,7 @@
             "English_Name": "acne free 30g  gel",
             "Arabic_Name": "اكنى فرى 30 جم جل",
             "New_Price": "5.9",
-            "old price ": "5.9",
+            "old_price ": "5.9",
             "Code": "6221025002877",
             "Composition": "tretinoin  0.025"
         },
@@ -355,7 +371,7 @@
             "English_Name": "acne-biotic 15ml lotion",
             "Arabic_Name": "اكنى-بيوتك 15 مل لوسيون",
             "New_Price": "13",
-            "old price ": "13",
+            "old_price ": "13",
             "Code": "6221060001330",
             "Composition": "erythromycin   4%"
         },
@@ -363,7 +379,7 @@
             "English_Name": "acnescave 0.1% gel",
             "Arabic_Name": "اكنيسكيف 0.1% جيل",
             "New_Price": "18",
-            "old price ": "18",
+            "old_price ": "18",
             "Code": "6221126000420",
             "Composition": "adapalene"
         },
@@ -371,7 +387,7 @@
             "English_Name": "acne-stop 30g cream",
             "Arabic_Name": "اكنى ستوب 30مجم كريم",
             "New_Price": "33.2",
-            "old price ": "33.2",
+            "old_price ": "33.2",
             "Code": "6222001405118",
             "Composition": "oleanolic acid"
         },
@@ -379,7 +395,7 @@
             "English_Name": "acnetin -a lotion 15ml",
             "Arabic_Name": "اكينتين لوشن 15 ملل",
             "New_Price": "6",
-            "old price ": "6",
+            "old_price ": "6",
             "Code": "6221051060254",
             "Composition": "tretinoin"
         },
@@ -387,7 +403,7 @@
             "English_Name": "acnetin-a cream 30 gm",
             "Arabic_Name": "اكينتين 30 جرام كريم",
             "New_Price": "9",
-            "old price ": "9",
+            "old_price ": "9",
             "Code": "6221051080078",
             "Composition": "tretinoin"
         },
@@ -395,7 +411,7 @@
             "English_Name": "acni-care  2%  25 ml lotion",
             "Arabic_Name": "اكنى كير 2% لوسيون25ملل",
             "New_Price": "8",
-            "old price ": "8",
+            "old_price ": "8",
             "Code": "6221051060278",
             "Composition": "erythromycin"
         },
@@ -403,7 +419,7 @@
             "English_Name": "acni-care 2% 20gm gel",
             "Arabic_Name": "اكنى-كير 2% 20جم جيل",
             "New_Price": "6.5",
-            "old price ": "6.5",
+            "old_price ": "6.5",
             "Code": "6221051150030",
             "Composition": "erythromycin"
         },
@@ -411,7 +427,7 @@
             "English_Name": "acnidu gel",
             "Arabic_Name": "اكنيديو جيل",
             "New_Price": "16.2",
-            "old price ": "16.2",
+            "old_price ": "16.2",
             "Code": "6223002453610",
             "Composition": "benzoyl peroxide+erythromycin"
         },
@@ -419,7 +435,7 @@
             "English_Name": "acretin  0.025% cream 30g",
             "Arabic_Name": "اكرتين 0.025% كريم 30جرام",
             "New_Price": "9",
-            "old price ": "9",
+            "old_price ": "9",
             "Code": "6281276025353",
             "Composition": "tretinoin  0.025%"
         },
@@ -427,7 +443,7 @@
             "English_Name": "acretin 0.05% cream",
             "Arabic_Name": "اكرتين 0.05% كريم 30جرام",
             "New_Price": "9",
-            "old price ": "10",
+            "old_price ": "10",
             "Code": "6281276015354",
             "Composition": "tretinoin  0.05 %"
         },
@@ -435,7 +451,7 @@
             "English_Name": "act life 200mcg 20cap",
             "Arabic_Name": "اكت لايف 200مكجم 20كبسولة",
             "New_Price": "54",
-            "old price ": "35.95",
+            "old_price ": "35.95",
             "Code": "6224000743239",
             "Composition": "chromium picolinate"
         },
@@ -443,7 +459,7 @@
             "English_Name": "actifast 12.5 mg 20/tab",
             "Arabic_Name": "اكتيفاست 5و12 مجم  20 قرص",
             "New_Price": "8.5",
-            "old price ": "8.5",
+            "old_price ": "8.5",
             "Code": "6221051011454",
             "Composition": "diclofenac"
         },
@@ -451,7 +467,7 @@
             "English_Name": "actifed  12/tab",
             "Arabic_Name": "اكتيفيد 12 قرص",
             "New_Price": "5",
-            "old price ": "5",
+            "old_price ": "5",
             "Code": "6221045000440",
             "Composition": "triprolidine  2.5 mg+pseudoephedrine  60"
         },
@@ -459,7 +475,7 @@
             "English_Name": "actifed 120ml syrup",
             "Arabic_Name": "اكتيفيد 120 مل شراب",
             "New_Price": "5.5",
-            "old price ": "5.5",
+            "old_price ": "5.5",
             "Code": "6221045000648",
             "Composition": "triprolidine  1.25 mg+pseudoephedrine  3"
         },
@@ -467,7 +483,7 @@
             "English_Name": "actifed expectorant 120ml syrup",
             "Arabic_Name": "اكتيفيد اكسبيكتوران 120 مل شراب",
             "New_Price": "6.25",
-            "old price ": "6.25",
+            "old_price ": "6.25",
             "Code": "6221045000631",
             "Composition": "triprolidine hydrochloride  30 mg"
         },
@@ -475,7 +491,7 @@
             "English_Name": "actimar    50 cap",
             "Arabic_Name": "اكتيمار 50 كبسول",
             "New_Price": "31",
-            "old price ": "30",
+            "old_price ": "30",
             "Code": "6224001050039",
             "Composition": "l-glutamine+taurine+b1+b6+zinc"
         },
@@ -483,7 +499,7 @@
             "English_Name": "activate 200 mg  30 tab",
             "Arabic_Name": "اكتيفيت 200 مجم 30 اقراص",
             "New_Price": "26",
-            "old price ": "18",
+            "old_price ": "18",
             "Code": "6221051010051",
             "Composition": "sulbutiamine  200 mg"
         },
@@ -491,7 +507,7 @@
             "English_Name": "activate 200mg 40/tab",
             "Arabic_Name": "اكتيفيت 200 مجم 40 قرص",
             "New_Price": "26",
-            "old price ": "26",
+            "old_price ": "26",
             "Code": "6221051014394",
             "Composition": "sulbutiamine  200 mg"
         },
@@ -499,21 +515,21 @@
             "English_Name": "active hair oil 120 ml",
             "Arabic_Name": "اكتيف زيت شعر 120مل",
             "New_Price": "85",
-            "old price ": "75",
+            "old_price ": "75",
             "Code": "6224000201685"
         },
         {
             "English_Name": "active shampoo 250ml",
             "Arabic_Name": "اكتيف شامبو 250مل",
             "New_Price": "95",
-            "old price ": "60",
+            "old_price ": "60",
             "Code": "6224000201692"
         },
         {
             "English_Name": "activent sr 8mg 20tab",
             "Arabic_Name": "اكتيفنت اس ار 8مجم 20قرص",
             "New_Price": "13.2",
-            "old price ": "13.2",
+            "old_price ": "13.2",
             "Code": "6221508023016",
             "Composition": "salbutamol"
         },
@@ -521,7 +537,7 @@
             "English_Name": "actonel  35 mg  2 tab",
             "Arabic_Name": "اكتونيل 35 مجم 2 اقراص",
             "New_Price": "121.5",
-            "old price ": "110",
+            "old_price ": "110",
             "Code": "5690528261318",
             "Composition": "risedronate sodium"
         },
@@ -529,7 +545,7 @@
             "English_Name": "actonel  5 mg  14 tab",
             "Arabic_Name": "اكتونيل 5 مجم 14 اقراص",
             "New_Price": "80",
-            "old price ": "80",
+            "old_price ": "80",
             "Code": "3587080003048",
             "Composition": "risedronate sodium"
         },
@@ -537,7 +553,7 @@
             "English_Name": "actos 15 ml tab",
             "Arabic_Name": "اكتوس 15 ملى اقراص",
             "New_Price": "154",
-            "old price ": "154",
+            "old_price ": "154",
             "Code": "6251159024612",
             "Composition": "pioglitazone"
         },
@@ -545,7 +561,7 @@
             "English_Name": "actos 30 ml tab",
             "Arabic_Name": "اكتوس 30 مل 30 قرص",
             "New_Price": "210",
-            "old price ": "210",
+            "old_price ": "210",
             "Code": "6251159024605",
             "Composition": "pioglitazone"
         },
@@ -553,7 +569,7 @@
             "English_Name": "actozone 30mg 10/tab",
             "Arabic_Name": "اكتوزون 30مجم 10اقراص",
             "New_Price": "33.5",
-            "old price ": "33.5",
+            "old_price ": "33.5",
             "Code": "6221025017772",
             "Composition": "piogilatazone"
         },
@@ -561,7 +577,7 @@
             "English_Name": "actozone 45mg 10/tab",
             "Arabic_Name": "اكتوزون 45 مجم 10اقراص",
             "New_Price": "50",
-            "old price ": "50",
+            "old_price ": "50",
             "Code": "6221025017765",
             "Composition": "piogilatazone"
         },
@@ -569,7 +585,7 @@
             "English_Name": "acular ls 5ml eye drops",
             "Arabic_Name": "اكيولار 5 مل قطرة عين",
             "New_Price": "41.5",
-            "old price ": "41.5",
+            "old_price ": "41.5",
             "Code": "5016007203790",
             "Composition": "ketorolac"
         },
@@ -577,7 +593,7 @@
             "English_Name": "acupan 30mg 20/tab",
             "Arabic_Name": "اكيوبان 30 مجم 20 قرص",
             "New_Price": "10",
-            "old price ": "5",
+            "old_price ": "5",
             "Code": "6221032110022",
             "Composition": "nefopam"
         },
@@ -585,7 +601,7 @@
             "English_Name": "acyclostad cream",
             "Arabic_Name": "اسيكلوستاد  كريم 10 جم",
             "New_Price": "9.75",
-            "old price ": "6.5",
+            "old_price ": "6.5",
             "Code": "6223002148066",
             "Composition": "acyclovir"
         },
@@ -593,7 +609,7 @@
             "English_Name": "acyclovir  800  mg 35 tab",
             "Arabic_Name": "اسيكلوفير 800 مجم 35 قراص",
             "New_Price": "144",
-            "old price ": "144",
+            "old_price ": "144",
             "Code": "6223002143306",
             "Composition": "acyclovir"
         },
@@ -601,7 +617,7 @@
             "English_Name": "acyclovir 3% 5g eye oint",
             "Arabic_Name": "اسيكلوفير 5 ج مرهم عين",
             "New_Price": "5.75",
-            "old price ": "3.8",
+            "old_price ": "3.8",
             "Code": "6221035006025",
             "Composition": "acyclovir"
         },
@@ -609,7 +625,7 @@
             "English_Name": "acyclovir 5% cream 10g",
             "Arabic_Name": "اسيكلوفير5%  10 جم كريم",
             "New_Price": "9.5",
-            "old price ": "9.5",
+            "old_price ": "9.5",
             "Code": "6221035008005",
             "Composition": "acyclovir  5%"
         },
@@ -617,7 +633,7 @@
             "English_Name": "adamine  20/cap",
             "Arabic_Name": "ادامين  20 كبسولة",
             "New_Price": "7",
-            "old price ": "7",
+            "old_price ": "7",
             "Code": "6223003970017",
             "Composition": "amantadine"
         },
@@ -625,7 +641,7 @@
             "English_Name": "adancor 10mg 30 tab",
             "Arabic_Name": "ادانكور 10 مجم 30 قرص",
             "New_Price": "69",
-            "old price ": "69",
+            "old_price ": "69",
             "Code": "6222003702437",
             "Composition": "nicorandil"
         },
@@ -633,7 +649,7 @@
             "English_Name": "adapalene 30g gel",
             "Arabic_Name": "ادابالين 30جم جيل",
             "New_Price": "12",
-            "old price ": "12",
+            "old_price ": "12",
             "Code": "6223002570119",
             "Composition": "retinoid"
         },
@@ -641,7 +657,7 @@
             "English_Name": "adaptan 300mg 10cap",
             "Arabic_Name": "ادابتان 300مجم 10كبسول",
             "New_Price": "21.6",
-            "old price ": "21.6",
+            "old_price ": "21.6",
             "Code": "6221076120940",
             "Composition": "gabapentin"
         },
@@ -649,7 +665,7 @@
             "English_Name": "adaptan 400 tab",
             "Arabic_Name": "ادبتان 400 اقراص",
             "New_Price": "31.2",
-            "old price ": "31.2",
+            "old_price ": "31.2",
             "Code": "6221076120070",
             "Composition": "gabapentin"
         },
@@ -657,7 +673,7 @@
             "English_Name": "adcocetine 1%  15 gm oint",
             "Arabic_Name": "ادكوستين 15 جم مرهم",
             "New_Price": "3.75",
-            "old price ": "3.8",
+            "old_price ": "3.8",
             "Code": "6221060001361",
             "Composition": "chloramphenicol"
         },
@@ -665,7 +681,7 @@
             "English_Name": "adcokion 10mg 20/tab",
             "Arabic_Name": "ادكوكيون 10 جم20 قرص",
             "New_Price": "14",
-            "old price ": "14",
+            "old_price ": "14",
             "Code": "6221060004096",
             "Composition": "vitamin k1 (phytomenadione)"
         },
@@ -673,7 +689,7 @@
             "English_Name": "adcopanthene cream 20 gm",
             "Arabic_Name": "ادكو بانتين كريم 20 جم",
             "New_Price": "12",
-            "old price ": "5.75",
+            "old_price ": "5.75",
             "Code": "6221060004782",
             "Composition": "panthenol"
         },
@@ -681,7 +697,7 @@
             "English_Name": "adeno- b 6   10 tab",
             "Arabic_Name": "ادينو بي 6  10اقراص",
             "New_Price": "7.7",
-            "old price ": "8",
+            "old_price ": "8",
             "Code": "6221507010055",
             "Composition": "atp+co-carboxylase+nicotinamide"
         },
@@ -689,7 +705,7 @@
             "English_Name": "adeno- b 6   20 tab",
             "Arabic_Name": "ادينو بي 6  20اقراص",
             "New_Price": "14.4",
-            "old price ": "14.4",
+            "old_price ": "14.4",
             "Code": "6224000730369",
             "Composition": "atp+co-carboxylase+nicotinamide"
         },
@@ -697,7 +713,7 @@
             "English_Name": "adenoplex forte 3/amp",
             "Arabic_Name": "ادينوبلكس فورت 3امبولات",
             "New_Price": "11.8",
-            "old price ": "11.8",
+            "old_price ": "11.8",
             "Code": "6221077150113",
             "Composition": "atp+co-carboxylase+nicotinamide+vitamin"
         },
@@ -705,7 +721,7 @@
             "English_Name": "adeno-sed b forte 3/amp",
             "Arabic_Name": "ادينو-سيد ب فورت 3 امبولات",
             "New_Price": "7.5",
-            "old price ": "9.5",
+            "old_price ": "9.5",
             "Code": "6221042416022",
             "Composition": "atp+co-carboxylase+nicotinamide"
         },
@@ -713,7 +729,7 @@
             "English_Name": "adenosine forte 3/amp",
             "Arabic_Name": "ادينوسين فورت 3امبولات",
             "New_Price": "9.5",
-            "old price ": "9.5",
+            "old_price ": "9.5",
             "Code": "6221077151110",
             "Composition": "vit b+ atp"
         },
@@ -721,7 +737,7 @@
             "English_Name": "adenox forte  20/tab",
             "Arabic_Name": "ادينوكس فورت 20 قرص",
             "New_Price": "11.5",
-            "old price ": "11.5",
+            "old_price ": "11.5",
             "Code": "6221051010181",
             "Composition": "atp+vitamin b6"
         },
@@ -729,7 +745,7 @@
             "English_Name": "ad-muc  oint",
             "Arabic_Name": "اد-موك  مرهم",
             "New_Price": "11",
-            "old price ": "11",
+            "old_price ": "11",
             "Code": "6223003579753",
             "Composition": "chamomile+myrrh tincture"
         },
@@ -737,7 +753,7 @@
             "English_Name": "adol 500mg 24/tab",
             "Arabic_Name": "ادول 500ملغ 24قرص",
             "New_Price": "12",
-            "old price ": "12",
+            "old_price ": "12",
             "Code": "6291100080069",
             "Composition": "paracetamol  500 mg"
         },
@@ -745,7 +761,7 @@
             "English_Name": "adol extra  24/cap",
             "Arabic_Name": "ادول اكسترا 24 قرص",
             "New_Price": "16.5",
-            "old price ": "16.5",
+            "old_price ": "16.5",
             "Code": "6291100080557",
             "Composition": "paracetmol+caffeine"
         },
@@ -753,7 +769,7 @@
             "English_Name": "adol sinns 24/cap",
             "Arabic_Name": "ادول ساينس 24كبسولة",
             "New_Price": "12",
-            "old price ": "10",
+            "old_price ": "10",
             "Code": "6223003840440",
             "Composition": "paracetamol(acetaminophen)+pseudoephedrine"
         },
@@ -761,7 +777,7 @@
             "English_Name": "adolor 10mg 20 tab",
             "Arabic_Name": "ادولور10مجم 20 قرص",
             "New_Price": "12.75",
-            "old price ": "12.75",
+            "old_price ": "12.75",
             "Code": "6221151001805",
             "Composition": "ketorolac tromethamine"
         },
@@ -769,7 +785,7 @@
             "English_Name": "adolor 15 mg 3 amp",
             "Arabic_Name": "ادولور 15مجم 3 امبولات",
             "New_Price": "7.5",
-            "old price ": "7.5",
+            "old_price ": "7.5",
             "Code": "6223000012208",
             "Composition": "ketorolac"
         },
@@ -777,7 +793,7 @@
             "English_Name": "adolor 30 mg 3 amp",
             "Arabic_Name": "ادولور 30 مجم 3امبول",
             "New_Price": "12",
-            "old price ": "12",
+            "old_price ": "12",
             "Code": "6223000013748",
             "Composition": "ketorolac"
         },
@@ -785,7 +801,7 @@
             "English_Name": "advancrib 400 mg 5 tab",
             "Arabic_Name": "ادفانكريب 400 مجم  5قرص",
             "New_Price": "47",
-            "old price ": "47",
+            "old_price ": "47",
             "Code": "6221081155586",
             "Composition": "moxifloxacin"
         },
@@ -793,7 +809,7 @@
             "English_Name": "advic cream 50gm",
             "Arabic_Name": "ادفيك كريم 50 جرام",
             "New_Price": "17.5",
-            "old price ": "21",
+            "old_price ": "21",
             "Code": "6210255583560"
         }
     ]

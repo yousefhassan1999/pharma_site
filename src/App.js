@@ -27,14 +27,14 @@ const App = () => {
   };
   const SearchStart = () => {
     const newShowing = Data.filter((item) =>
-      item.English_Name.includes(Search)
+      item.English_Name.toLowerCase().includes(Search.toLowerCase())
     );
     setShowingData(newShowing);
   };
   return (
     <div className="app">
       <div className="FixedHeader">
-        <Navbar bg="light" expand="lg">
+        <Navbar className="nav-header">
           <Container>
             <div className="header">
               <img src={logo} alt="" width={70} />
@@ -57,10 +57,7 @@ const App = () => {
 
       <Overlay />
       <div className="__main">
-        <Container>
-          <MainBody Data={ShowingData} />
-        </Container>
-        {/* tab={tab} */}
+        <MainBody Data={ShowingData} />
       </div>
       <ContactMe />
     </div>

@@ -12,14 +12,24 @@
   }
 }
 .Card{
-  margin-bottom: 10px;
+  margin: 10px;
+  box-shadow: 0 2px 15px rgb(0 0 0 / 10%);
+  background-color: white;
+  border-radius: 6px;
+  overflow: hidden;
 }
+
 .desc{
-  max-height: 60px;
+  height: 60px;
+}
+.desc span{
   overflow: hidden;
 }
 .name{
   min-height: 50px;
+}
+.name span{
+  font-weight: bolder;
 }
 .price span{
   font-weight: bolder;
@@ -53,4 +63,49 @@
 }
 .rec .rec-pagination{
   display: none;
+}
+.labelclass {
+	display: block;
+	width: 288px;
+	height: 429px;
+	perspective: 1000px;
+	transform-style: preserve-3d;
+	cursor: pointer;
+  margin: 25px 10px;
+}
+
+.flip-card {
+	position: relative;
+	width: 100%;
+  height: 100%;
+	transform-style: preserve-3d;
+	transition: all 0.5s ease-in-out;
+	z-index: 1;
+}
+
+.flip-card .front,
+.flip-card .back {
+	position: absolute;
+	text-align: center;
+	backface-visibility: hidden;
+}
+
+.flip-card .back {
+	transform: rotateX(180deg);
+	color: #000;
+}
+
+.labelclass:hover .flip-card {
+	transform: rotateX(2deg);
+}
+
+.flippedCheck {
+	display: none;
+}
+
+:checked + .flip-card {
+	transform: rotateX(180deg);
+}
+.labelclass:hover :checked + .flip-card {
+	transform: rotateX(175deg);
 }

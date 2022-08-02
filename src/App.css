@@ -15,14 +15,17 @@ body {
   max-width: 100vw;
   border-radius: 10px;
   display: flex;
+  margin-top:40px;
 }
 .header {
   display: flex;
   justify-content: space-between;
-  flex-direction: column;
   width: 100%;
-  padding: 0px 20px;
+  background-color: #fff;
 }
+/* .nav-header{
+  background-color: aqua;
+} */
 .FixedHeader {
   position: fixed;
   top: 0;
@@ -39,9 +42,8 @@ body {
     justify-content: center;
   }
   .__main {
-    max-width: 95%;
     margin: auto;
-    margin-top: 20px;
+    margin-top: 60px;
     background-color: #fff;
     min-height: 80vh;
     width: 100%;
@@ -53,7 +55,6 @@ body {
     display: flex;
     flex-direction: row;
     width: 100%;
-    padding: 0px 20px;
   }
   .search_wrap {
     width: 50% ;
