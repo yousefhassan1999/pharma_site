@@ -15,7 +15,7 @@ const ChatBody = () => {
   };
 
   return (
-    <div className="main__chatbody">
+    <div className="main__body">
       <Products />
       <div className="LoadMore">
         <Button variant="danger" onClick={changSlice}>

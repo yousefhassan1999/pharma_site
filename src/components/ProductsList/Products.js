@@ -10,7 +10,7 @@ const ChatContent = () => {
   const { count } = useSelector((state) => state.counter);
 
   return (
-    <div className="main__chatcontent">
+    <div className="main__content">
       {Data.slice(0, count).map((data, index) => (
         <div key={index}>
           <label className="labelclass">

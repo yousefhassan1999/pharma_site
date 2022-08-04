@@ -1,4 +1,4 @@
-.main__chatcontent {
+.main__content {
   flex-grow: 1;
   display: flex;
   justify-content: space-evenly;
@@ -6,7 +6,7 @@
   flex-wrap: wrap;
 }
 @media screen and (min-width: 768px){
-  .main__chatcontent {
+  .main__content {
     flex-grow: 1;
     padding: 0px 40px;
   }
