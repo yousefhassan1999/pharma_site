@@ -1,13 +1,17 @@
 import React from "react";
+import { useSelector } from "react-redux";
 
 import "./Products.css";
 import Card from "react-bootstrap/Card";
 import ListGroup from "react-bootstrap/ListGroup";
 
-const ChatContent = ({ Data, Slice }) => {
+const ChatContent = () => {
+  const Data = useSelector((state) => state.DataGroup.showingData);
+  const { count } = useSelector((state) => state.counter);
+
   return (
     <div className="main__chatcontent">
-      {Data.slice(0, Slice).map((data, index) => (
+      {Data.slice(0, count).map((data, index) => (
         <div key={index}>
           <label className="labelclass">
             <input type="checkbox" className="flippedCheck" />

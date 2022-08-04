@@ -1,18 +1,26 @@
-import React , {useState} from "react";
-import "./MainBody.css";
+import React from "react";
+import { useDispatch } from "react-redux";
+
 import Products from "../ProductsList/Products";
 import Button from "react-bootstrap/Button";
-const ChatBody = ({ tab, Data }) => {
-  const [Slice, setSlice] = useState(10); 
+import { increment } from "../../redux/counterSlice";
+
+import "./MainBody.css";
+
+const ChatBody = () => {
+  const dispatch = useDispatch();
 
   const changSlice = () => {
-    setSlice((prev) => prev + 10 )
-  }
+    dispatch(increment());
+  };
+
   return (
     <div className="main__chatbody">
-      <Products  tab={tab} Data={Data} Slice={Slice}/>
+      <Products />
       <div className="LoadMore">
-        <Button variant="danger" onClick={changSlice}>Load More</Button>
+        <Button variant="danger" onClick={changSlice}>
+          Load More
+        </Button>
       </div>
     </div>
   );

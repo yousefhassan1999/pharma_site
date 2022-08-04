@@ -4,7 +4,7 @@ import { Typewriter } from "react-simple-typewriter";
 
 const Overlay = () => {
   const scrollDown = () =>{
-    window.scrollTo(0, 800)
+    window.scrollTo(0, 900)
   }
   return (
     <div className="parent">

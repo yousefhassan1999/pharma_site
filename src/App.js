@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import { useSelector, useDispatch } from "react-redux";
 
 import "./App.css";
 import MainBody from "./components/MainBody/MainBody";
@@ -9,16 +10,17 @@ import Navbar from "react-bootstrap/Navbar";
 import Container from "react-bootstrap/Container";
 import logo from "./images/logo.png";
 
-var data = require("./data/data.json");
+import { GetData } from "./redux/API";
+import { SetshowingData } from "./redux/DataSlice";
 
 const App = () => {
-  const [Data, setData] = useState([]);
-  const [ShowingData, setShowingData] = useState([]);
+  const Data = useSelector((state) => state.DataGroup.data);
   const [Search, setSearch] = useState("");
+  const dispatch = useDispatch();
+
   useEffect(() => {
-    setData(data.Products);
-    setShowingData(data.Products);
-  }, [Data]);
+    GetData(dispatch);
+  }, [dispatch]);
 
   const setSearchValue = (e) => {
     e.preventDefault();
@@ -29,7 +31,7 @@ const App = () => {
     const newShowing = Data.filter((item) =>
       item.English_Name.toLowerCase().includes(Search.toLowerCase())
     );
-    setShowingData(newShowing);
+    dispatch(SetshowingData(newShowing));
   };
   return (
     <div className="app">
@@ -57,7 +59,7 @@ const App = () => {
 
       <Overlay />
       <div className="__main">
-        <MainBody Data={ShowingData} />
+        <MainBody />
       </div>
       <ContactMe />
     </div>
